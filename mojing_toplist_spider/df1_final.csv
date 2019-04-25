@@ -1,0 +1,211 @@
+,avg_price,brand_id,brand_name,item_num,sale,sold,first_category_id,first_category_name_en,first_is_parent,first_level,first_name,first_num,first_parent_id
+0,177.27,29527,Uniqlo/优衣库,169,278980540.0,1573735,16,Ladies / Ladies,True,1,女装/女士精品,335,0
+1,431.16,29902,Vero Moda,1473,229365562.0,531978,16,Ladies / Ladies,True,1,女装/女士精品,335,0
+2,355.29,29896,ONLY,1851,217047196.0,610905,16,Ladies / Ladies,True,1,女装/女士精品,335,0
+3,500.97,115393,Eifini/伊芙丽,758,208934422.0,417059,16,Ladies / Ladies,True,1,女装/女士精品,335,0
+4,188.03,8598007,HSTYLE/韩都衣舍,1839,203299451.17,1081208,16,Ladies / Ladies,True,1,女装/女士精品,335,0
+5,414.65,109718,PEACEBIRD/太平鸟,2396,165676388.3,399557,16,Ladies / Ladies,True,1,女装/女士精品,335,0
+6,251.44,29470,Bosideng/波司登,1712,159683639.89999998,635074,16,Ladies / Ladies,True,1,女装/女士精品,335,0
+7,274.37,29895,Ochirly/欧时力,2183,141538267.0,515871,16,Ladies / Ladies,True,1,女装/女士精品,335,0
+8,296.83,4057780,乐町,1381,141472755.0,476608,16,Ladies / Ladies,True,1,女装/女士精品,335,0
+9,701.98,86206958,Mo＆Co．/摩安珂,900,122346082.0,174287,16,Ladies / Ladies,True,1,女装/女士精品,335,0
+10,337.62,119861624,HLA/海澜之家,1377,383465938.0,1135788,30,Men's wear,True,1,男装,68,0
+11,458.5,109718,PEACEBIRD/太平鸟,1982,320558728.0,699148,30,Men's wear,True,1,男装,68,0
+12,422.3,3806841,GXG,1993,316434536.0,749311,30,Men's wear,True,1,男装,68,0
+13,168.17,29527,Uniqlo/优衣库,187,308656844.0,1835410,30,Men's wear,True,1,男装,68,0
+14,154.45,130259,Semir/森马,1934,282860507.2,1831443,30,Men's wear,True,1,男装,68,0
+15,362.64,29493,Jack Jones/杰克琼斯,1054,270289133.0,745335,30,Men's wear,True,1,男装,68,0
+16,134.06,29510,PLAYBOY/花花公子,4884,214169861.29,1597613,30,Men's wear,True,1,男装,68,0
+17,313.28,29482,Mark Fairwhale/马克华菲,3852,209374664.0,668331,30,Men's wear,True,1,男装,68,0
+18,147.27,29504,Meters Bonwe/美特斯邦威,1191,200584145.59999987,1362045,30,Men's wear,True,1,男装,68,0
+19,308.86,46864,恒源祥,3665,129009573.0,417694,30,Men's wear,True,1,男装,68,0
+20,2107.08,4537232,林氏木业,873,339096470.0,160932,50008164,Residential furniture,True,1,住宅家具,85,0
+21,2908.65,8167746,QuanU/全友,759,211188403.0,72607,50008164,Residential furniture,True,1,住宅家具,85,0
+22,1669.39,121104415,源氏木语,459,66788771.0,40008,50008164,Residential furniture,True,1,住宅家具,85,0
+23,4092.66,43538224,DE RUCCI/慕思,56,49750382.0,12156,50008164,Residential furniture,True,1,住宅家具,85,0
+24,3018.48,4354718,CHEERS/芝华仕,86,48126654.0,15944,50008164,Residential furniture,True,1,住宅家具,85,0
+25,1602.7,87019960,原始原素,311,45011761.0,28085,50008164,Residential furniture,True,1,住宅家具,85,0
+26,1423.4,3692191,维莎,297,41290002.0,29008,50008164,Residential furniture,True,1,住宅家具,85,0
+27,2617.7,129853,AIRLAND/雅兰,104,39037758.0,14913,50008164,Residential furniture,True,1,住宅家具,85,0
+28,2005.57,145544843,UVAN ART/优梵艺术,371,38589262.4,19241,50008164,Residential furniture,True,1,住宅家具,85,0
+29,2107.09,114155963,法丽莎,324,37936030.0,18004,50008164,Residential furniture,True,1,住宅家具,85,0
+30,4956.89,30111,Apple/苹果,108,868794658.0,175270,1512,Mobile phone,False,1,手机,2,0
+31,1142.32,590022244,honor/荣耀,266,719773003.0,630095,1512,Mobile phone,False,1,手机,2,0
+32,1422.49,3506680,MIUI/小米,294,468007369.59999996,329005,1512,Mobile phone,False,1,手机,2,0
+33,2363.66,11813,Huawei/华为,366,447798339.0,189451,1512,Mobile phone,False,1,手机,2,0
+34,2497.15,91621,VIVO,215,209438110.0,83871,1512,Mobile phone,False,1,手机,2,0
+35,998.21,25143,Meizu/魅族,290,104705784.0,104894,1512,Mobile phone,False,1,手机,2,0
+36,4755.97,81156,Samsung/三星,131,78525875.0,16511,1512,Mobile phone,False,1,手机,2,0
+37,2236.79,28247,OPPO,173,74371184.0,33249,1512,Mobile phone,False,1,手机,2,0
+38,2374.75,280928896,nubia/努比亚,59,35388578.019999996,14902,1512,Mobile phone,False,1,手机,2,0
+39,3365.18,157907274,Meitu/美图,73,33389333.0,9922,1512,Mobile phone,False,1,手机,2,0
+40,515.44,29468,Belle/百丽,744,87256695.0,169285,50006843,Women's Shoes,True,1,女鞋,73,0
+41,308.49,4535636,Skechers/斯凯奇,183,85232406.0,276288,50006843,Women's Shoes,True,1,女鞋,73,0
+42,203.72,47342,Camel/骆驼,1348,77032349.84,378120,50006843,Women's Shoes,True,1,女鞋,73,0
+43,192.24,3271331,Josiny/卓诗尼,2096,65768121.4,342119,50006843,Women's Shoes,True,1,女鞋,73,0
+44,772.99,44611,Staccato/思加图,334,56367167.0,72921,50006843,Women's Shoes,True,1,女鞋,73,0
+45,166.03,44606,Hotwind/热风,779,48421079.5,291649,50006843,Women's Shoes,True,1,女鞋,73,0
+46,197.3,44602,Daphne/达芙妮,1727,43023541.35,218061,50006843,Women's Shoes,True,1,女鞋,73,0
+47,223.17,44618,REDDRAGONFLY/红蜻蜓,1600,42074614.0,188529,50006843,Women's Shoes,True,1,女鞋,73,0
+48,997.63,44615,UGG,223,39826204.0,39921,50006843,Women's Shoes,True,1,女鞋,73,0
+49,427.51,44614,Teenmix/天美意,686,36181384.0,84632,50006843,Women's Shoes,True,1,女鞋,73,0
+50,2076.39,52491,Britax/宝得适,21,43647851.0,21021,26,Car / supplies / Accessories / modification,True,1,汽车/用品/配件/改装,60,0
+51,309.2,3253280,360,18,42178287.3,136409,26,Car / supplies / Accessories / modification,True,1,汽车/用品/配件/改装,60,0
+52,404.38,4484826,Oyeah/欧洁,15,35752662.0,88413,26,Car / supplies / Accessories / modification,True,1,汽车/用品/配件/改装,60,0
+53,306.44,34950211,凌度,101,21995682.0,71777,26,Car / supplies / Accessories / modification,True,1,汽车/用品/配件/改装,60,0
+54,104.1,90409730,LDH/雷遁,95,18799444.59,180594,26,Car / supplies / Accessories / modification,True,1,汽车/用品/配件/改装,60,0
+55,219.92,133794,Castrol/嘉实多,76,17577247.5,79926,26,Car / supplies / Accessories / modification,True,1,汽车/用品/配件/改装,60,0
+56,714.95,3282518,感恩,78,17317559.8,24222,26,Car / supplies / Accessories / modification,True,1,汽车/用品/配件/改装,60,0
+57,254.34,133795,Mobil/美孚,139,15963343.5,62765,26,Car / supplies / Accessories / modification,True,1,汽车/用品/配件/改装,60,0
+58,379.29,3227275,MICHELIN/米其林,219,14075059.1,37109,26,Car / supplies / Accessories / modification,True,1,汽车/用品/配件/改装,60,0
+59,265.0,811908229,Fur/金狐羊,3,13082255.0,49367,26,Car / supplies / Accessories / modification,True,1,汽车/用品/配件/改装,60,0
+60,111.59,29519,Septwolves/七匹狼,1297,34839393.900000006,312214,50006842,Leather luggage / bag / bag hot,True,1,箱包皮具/热销女包/男包,37,0
+61,743.29,30141,Samsonite/新秀丽,287,26062822.0,35064,50006842,Leather luggage / bag / bag hot,True,1,箱包皮具/热销女包/男包,37,0
+62,119.65,4535252,Mexican/稻草人,993,25208233.1,210688,50006842,Leather luggage / bag / bag hot,True,1,箱包皮具/热销女包/男包,37,0
+63,397.86,96817518,AMERICAN TOURISTER/美旅,139,23872828.0,60003,50006842,Leather luggage / bag / bag hot,True,1,箱包皮具/热销女包/男包,37,0
+64,438.7,29874,ELLE,181,21373392.0,48720,50006842,Leather luggage / bag / bag hot,True,1,箱包皮具/热销女包/男包,37,0
+65,246.0,12924469,90分,22,19793316.0,80459,50006842,Leather luggage / bag / bag hot,True,1,箱包皮具/热销女包/男包,37,0
+66,353.41,31879,Kipling,209,18762001.0,53088,50006842,Leather luggage / bag / bag hot,True,1,箱包皮具/热销女包/男包,37,0
+67,1153.37,3889310,COACH/蔻驰,539,17578521.65,15241,50006842,Leather luggage / bag / bag hot,True,1,箱包皮具/热销女包/男包,37,0
+68,534.31,31878,Fion,216,16868123.0,31570,50006842,Leather luggage / bag / bag hot,True,1,箱包皮具/热销女包/男包,37,0
+69,234.56,135646871,JONBAG/简&middot;佰格,199,12946812.0,55197,50006842,Leather luggage / bag / bag hot,True,1,箱包皮具/热销女包/男包,37,0
+70,71.67,44477220,ROMOSS/罗马仕,187,45020558.2,628155,50008090,3C digital accessories,True,1,3C数码配件,10,0
+71,14.5,119804303,D哒D,434,38464889.199999996,2653250,50008090,3C digital accessories,True,1,3C数码配件,10,0
+72,49.24,42886,Pisen/品胜,740,23126694.599999998,469626,50008090,3C digital accessories,True,1,3C数码配件,10,0
+73,86.52,3506680,MIUI/小米,66,18626687.1,215295,50008090,3C digital accessories,True,1,3C数码配件,10,0
+74,38.5,559636368,第一卫,230,16743660.2,434871,50008090,3C digital accessories,True,1,3C数码配件,10,0
+75,25.23,45694061,HOCO/浩酷,130,15980358.689999998,633375,50008090,3C digital accessories,True,1,3C数码配件,10,0
+76,40.86,16374678,TORRAS/图拉斯,361,15250835.61,373226,50008090,3C digital accessories,True,1,3C数码配件,10,0
+77,52.1,118898,Yoobao/羽博,255,14059717.689999998,269879,50008090,3C digital accessories,True,1,3C数码配件,10,0
+78,43.6,71689218,BASEUS/倍思,520,8217571.699999998,188479,50008090,3C digital accessories,True,1,3C数码配件,10,0
+79,28.54,109846583,绿联,368,7785962.1,272790,50008090,3C digital accessories,True,1,3C数码配件,10,0
+80,1962.81,11016,Haier/海尔,2286,1098783515.0,559802,50022703,Large household electrical appliances,True,1,大家电,20,0
+81,1725.77,30652,Midea/美的,1989,804124367.0,465950,50022703,Large household electrical appliances,True,1,大家电,20,0
+82,3397.89,10590,Sharp/夏普,45,445283744.0,131047,50022703,Large household electrical appliances,True,1,大家电,20,0
+83,3897.36,80946,SIEMENS/西门子,498,442760142.0,113605,50022703,Large household electrical appliances,True,1,大家电,20,0
+84,3450.08,30645,Gree/格力,247,385860264.0,111841,50022703,Large household electrical appliances,True,1,大家电,20,0
+85,2878.93,11599,Hisense/海信,472,297085799.0,103193,50022703,Large household electrical appliances,True,1,大家电,20,0
+86,2061.67,3506680,MIUI/小米,49,250107747.9,121313,50022703,Large household electrical appliances,True,1,大家电,20,0
+87,2405.58,10858,TCL,501,240052817.0,99790,50022703,Large household electrical appliances,True,1,大家电,20,0
+88,1805.95,30657,Littleswan/小天鹅,146,195138154.0,108053,50022703,Large household electrical appliances,True,1,大家电,20,0
+89,2561.27,21210,AUX/奥克斯,258,174968175.0,68313,50022703,Large household electrical appliances,True,1,大家电,20,0
+90,211.01,29510,PLAYBOY/花花公子,1346,110798580.0,525099,50011740,Fashion men's shoes,True,1,流行男鞋,32,0
+91,271.48,47342,Camel/骆驼,2113,102907982.9,379060,50011740,Fashion men's shoes,True,1,流行男鞋,32,0
+92,202.82,29462,Aokang/奥康,1554,86015521.2,424095,50011740,Fashion men's shoes,True,1,流行男鞋,32,0
+93,198.68,44618,REDDRAGONFLY/红蜻蜓,1673,67377180.0,339119,50011740,Fashion men's shoes,True,1,流行男鞋,32,0
+94,208.5,125708,木林森,1110,42653534.4,204569,50011740,Fashion men's shoes,True,1,流行男鞋,32,0
+95,204.24,100998,YEARCON/意尔康,639,39896368.0,195345,50011740,Fashion men's shoes,True,1,流行男鞋,32,0
+96,332.43,4535636,Skechers/斯凯奇,164,38872274.0,116933,50011740,Fashion men's shoes,True,1,流行男鞋,32,0
+97,409.59,29468,Belle/百丽,543,26145928.0,63835,50011740,Fashion men's shoes,True,1,流行男鞋,32,0
+98,449.78,3272234,Dickies,331,25249973.0,56139,50011740,Fashion men's shoes,True,1,流行男鞋,32,0
+99,879.55,3276787,clarks,274,22223506.0,25267,50011740,Fashion men's shoes,True,1,流行男鞋,32,0
+100,262.3,3480603,LEGO/乐高,593,22975634.160000004,87592,25,Toy / bassinet / puzzle / block / model,True,1,玩具/童车/益智/积木/模型,71,0
+101,144.05,129301,KUB/可优比,46,22213235.0,154202,25,Toy / bassinet / puzzle / block / model,True,1,玩具/童车/益智/积木/模型,71,0
+102,138.86,20358,FISHER-PRICE/费雪,455,16657212.12,119953,25,Toy / bassinet / puzzle / block / model,True,1,玩具/童车/益智/积木/模型,71,0
+103,1668.22,9033859,小天才,19,13050474.0,7823,25,Toy / bassinet / puzzle / block / model,True,1,玩具/童车/益智/积木/模型,71,0
+104,77.46,30812,Disney/迪士尼,1399,12384390.52,159878,25,Toy / bassinet / puzzle / block / model,True,1,玩具/童车/益智/积木/模型,71,0
+105,441.51,178668348,Ubbie/优彼,50,11844408.5,26827,25,Toy / bassinet / puzzle / block / model,True,1,玩具/童车/益智/积木/模型,71,0
+106,113.68,3549522,HaPe,304,11688501.36,102821,25,Toy / bassinet / puzzle / block / model,True,1,玩具/童车/益智/积木/模型,71,0
+107,192.54,98339481,火火兔,45,10287783.0,53433,25,Toy / bassinet / puzzle / block / model,True,1,玩具/童车/益智/积木/模型,71,0
+108,287.54,120658282,Phoenix/凤凰,90,8953867.9,31140,25,Toy / bassinet / puzzle / block / model,True,1,玩具/童车/益智/积木/模型,71,0
+109,201.8,12925133,vtech/伟易达,195,8795802.7,43587,25,Toy / bassinet / puzzle / block / model,True,1,玩具/童车/益智/积木/模型,71,0
+110,1583.6,134892,亿健,82,46665449.0,29468,50010728,Sports / Yoga / Fitness / fan products,True,1,运动/瑜伽/健身/球迷用品,30,0
+111,1480.93,132264157,CHISLIM/启迈斯,70,22547191.9,15225,50010728,Sports / Yoga / Fitness / fan products,True,1,运动/瑜伽/健身/球迷用品,30,0
+112,67.79,20592,Lining/李宁,1707,19367148.85,285711,50010728,Sports / Yoga / Fitness / fan products,True,1,运动/瑜伽/健身/球迷用品,30,0
+113,147.48,20595,YONEX/尤尼克斯,686,10867801.4,73688,50010728,Sports / Yoga / Fitness / fan products,True,1,运动/瑜伽/健身/球迷用品,30,0
+114,3580.81,42574,SHUA/舒华,70,10090715.0,2818,50010728,Sports / Yoga / Fitness / fan products,True,1,运动/瑜伽/健身/球迷用品,30,0
+115,111.28,44506,Decathlon/迪卡侬,240,9636011.399999999,86595,50010728,Sports / Yoga / Fitness / fan products,True,1,运动/瑜伽/健身/球迷用品,30,0
+116,138.1,20675,Spalding/斯伯丁,412,9549374.370000001,69148,50010728,Sports / Yoga / Fitness / fan products,True,1,运动/瑜伽/健身/球迷用品,30,0
+117,184.79,114443165,Balneaire/范德安,430,8612095.5,46605,50010728,Sports / Yoga / Fitness / fan products,True,1,运动/瑜伽/健身/球迷用品,30,0
+118,116.49,44585,Speedo,471,7826240.9,67184,50010728,Sports / Yoga / Fitness / fan products,True,1,运动/瑜伽/健身/球迷用品,30,0
+119,113.5,60575,Arena/阿瑞娜,534,7361644.9,64861,50010728,Sports / Yoga / Fitness / fan products,True,1,运动/瑜伽/健身/球迷用品,30,0
+120,313.79,30652,Midea/美的,1671,453658099.5,1445722,50012082,Kitchen appliances,True,1,厨房电器,31,0
+121,363.94,30850,Joyoung/九阳,855,265353666.4,729117,50012082,Kitchen appliances,True,1,厨房电器,31,0
+122,240.38,30844,Supor/苏泊尔,860,227103002.5,944749,50012082,Kitchen appliances,True,1,厨房电器,31,0
+123,457.94,30644,Galanz/格兰仕,190,114437757.0,249895,50012082,Kitchen appliances,True,1,厨房电器,31,0
+124,1724.74,3506680,MIUI/小米,16,74348459.0,43107,50012082,Kitchen appliances,True,1,厨房电器,31,0
+125,139.32,31358,Bear/小熊,1746,66770316.79999999,479247,50012082,Kitchen appliances,True,1,厨房电器,31,0
+126,1335.81,30831,沁园,151,64279368.8,48120,50012082,Kitchen appliances,True,1,厨房电器,31,0
+127,326.43,35663885,BRITA/碧然德,106,54903139.0,168191,50012082,Kitchen appliances,True,1,厨房电器,31,0
+128,325.16,21210,AUX/奥克斯,317,43817538.699999996,134756,50012082,Kitchen appliances,True,1,厨房电器,31,0
+129,2317.7,16039504,Hurom/惠人,64,42024473.0,18132,50012082,Kitchen appliances,True,1,厨房电器,31,0
+130,314.81,3685660,水星,1666,108067948.9,343275,50008163,Bedding article,True,1,床上用品,10,0
+131,33.62,71305318,艾唯美,52,90753258.46000004,2699694,50008163,Bedding article,True,1,床上用品,10,0
+132,98.12,107380,南极人,1824,83320257.77000003,849142,50008163,Bedding article,True,1,床上用品,10,0
+133,421.61,80875,富安娜,536,72767645.0,172594,50008163,Bedding article,True,1,床上用品,10,0
+134,295.34,6197541,lovo,809,50924108.9,172426,50008163,Bedding article,True,1,床上用品,10,0
+135,496.28,80874,罗莱,360,43297476.0,87244,50008163,Bedding article,True,1,床上用品,10,0
+136,167.84,46864,恒源祥,1222,33712008.8,200863,50008163,Bedding article,True,1,床上用品,10,0
+137,497.08,80881,梦洁,544,29776788.7,59903,50008163,Bedding article,True,1,床上用品,10,0
+138,318.68,80889,博洋,545,29729999.5,93291,50008163,Bedding article,True,1,床上用品,10,0
+139,102.37,3469821,Bejirog/北极绒,650,29573027.86,288874,50008163,Bedding article,True,1,床上用品,10,0
+140,300.93,47342,Camel/骆驼,1530,116103701.1,385811,50013886,Outdoor / hiking / Camping / travel products,True,1,户外/登山/野营/旅行用品,22,0
+141,363.19,28006,Toread/探路者,993,86250367.3,237477,50013886,Outdoor / hiking / Camping / travel products,True,1,户外/登山/野营/旅行用品,22,0
+142,867.99,9865041,THE NORTH FACE/北面,624,53980604.1,62190,50013886,Outdoor / hiking / Camping / travel products,True,1,户外/登山/野营/旅行用品,22,0
+143,872.97,27976,Columbia/哥伦比亚,526,50410537.8,57746,50013886,Outdoor / hiking / Camping / travel products,True,1,户外/登山/野营/旅行用品,22,0
+144,721.75,28005,TIMBERLAND/添柏岚,291,41698175.0,57774,50013886,Outdoor / hiking / Camping / travel products,True,1,户外/登山/野营/旅行用品,22,0
+145,293.95,146123742,PELLIOT,491,40419901.1,137504,50013886,Outdoor / hiking / Camping / travel products,True,1,户外/登山/野营/旅行用品,22,0
+146,601.14,107567,Jack wolfskin/狼爪,535,30688316.4,51050,50013886,Outdoor / hiking / Camping / travel products,True,1,户外/登山/野营/旅行用品,22,0
+147,163.18,44506,Decathlon/迪卡侬,263,23894342.2,146431,50013886,Outdoor / hiking / Camping / travel products,True,1,户外/登山/野营/旅行用品,22,0
+148,563.85,27974,CAT,198,20621595.0,36573,50013886,Outdoor / hiking / Camping / travel products,True,1,户外/登山/野营/旅行用品,22,0
+149,375.16,75211622,DISCOVERY EXPEDITION,281,18014761.0,48019,50013886,Outdoor / hiking / Camping / travel products,True,1,户外/登山/野营/旅行用品,22,0
+150,296.99,10246,Philips/飞利浦,828,287925834.8,969490,50002768,Personal care / health / massage equipment,True,1,个人护理/保健/按摩器材,10,0
+151,852.66,15340734,FOREO,60,91565116.0,107388,50002768,Personal care / health / massage equipment,True,1,个人护理/保健/按摩器材,10,0
+152,77.73,30822,Flyco/飞科,492,81494667.1,1048453,50002768,Personal care / health / massage equipment,True,1,个人护理/保健/按摩器材,10,0
+153,214.91,102864,Oral-B/博朗欧乐B,130,72180490.0,335870,50002768,Personal care / health / massage equipment,True,1,个人护理/保健/按摩器材,10,0
+154,303.84,81147,Panasonic/松下,328,56023232.0,184385,50002768,Personal care / health / massage equipment,True,1,个人护理/保健/按摩器材,10,0
+155,3405.01,124815205,雅萌,17,39007752.0,11456,50002768,Personal care / health / massage equipment,True,1,个人护理/保健/按摩器材,10,0
+156,325.92,30821,Braun/博朗,189,33967735.0,104221,50002768,Personal care / health / massage equipment,True,1,个人护理/保健/按摩器材,10,0
+157,471.37,1430992829,,10,31198929.0,66188,50002768,Personal care / health / massage equipment,True,1,个人护理/保健/按摩器材,10,0
+158,186.36,134034297,本博,58,29712771.0,159437,50002768,Personal care / health / massage equipment,True,1,个人护理/保健/按摩器材,10,0
+159,3036.1,43485175,dyson/戴森,4,28894530.0,9517,50002768,Personal care / health / massage equipment,True,1,个人护理/保健/按摩器材,10,0
+160,219.26,3223459,Bosch/博世,419,14650992.3,66820,50020485,Hardware / tools,True,1,五金/工具,3,0
+161,71.37,4467203,longyun/龙韵,184,8554506.4,119862,50020485,Hardware / tools,True,1,五金/工具,3,0
+162,302.65,9090230,Worx/威克士,128,8452146.0,27927,50020485,Hardware / tools,True,1,五金/工具,3,0
+163,170.16,3409432,东成,341,4867933.15,28608,50020485,Hardware / tools,True,1,五金/工具,3,0
+164,98.36,289948084,科麦斯,86,4533590.4,46093,50020485,Hardware / tools,True,1,五金/工具,3,0
+165,205.99,3375801,博大,214,3011429.8999999994,14619,50020485,Hardware / tools,True,1,五金/工具,3,0
+166,93.19,37644703,芝浦,33,2553370.0,27399,50020485,Hardware / tools,True,1,五金/工具,3,0
+167,39.24,45532929,Sata/世达,791,2259633.130000001,57592,50020485,Hardware / tools,True,1,五金/工具,3,0
+168,115.34,8158269,戈麦斯,77,2255676.0,19556,50020485,Hardware / tools,True,1,五金/工具,3,0
+169,242.9,112422259,雷亚,28,2194383.5,9034,50020485,Hardware / tools,True,1,五金/工具,3,0
+170,804.18,41399,Swarovski/施华洛世奇,613,28564311.0,35520,50013864,Jewelry / fashion jewelry / Fashion Jewelry NEW,True,1,饰品/流行首饰/时尚饰品新,36,0
+171,348.22,29589505,PANDORA/潘多拉,919,24277336.0,69719,50013864,Jewelry / fashion jewelry / Fashion Jewelry NEW,True,1,饰品/流行首饰/时尚饰品新,36,0
+172,46.49,175830912,ZENGLIU,1160,13926963.0,299538,50013864,Jewelry / fashion jewelry / Fashion Jewelry NEW,True,1,饰品/流行首饰/时尚饰品新,36,0
+173,106.14,4538543,she&rsquo;s,325,5202535.0,49014,50013864,Jewelry / fashion jewelry / Fashion Jewelry NEW,True,1,饰品/流行首饰/时尚饰品新,36,0
+174,43.75,131998478,CAROMAY/卡洛美,970,3467315.5000000005,79250,50013864,Jewelry / fashion jewelry / Fashion Jewelry NEW,True,1,饰品/流行首饰/时尚饰品新,36,0
+175,727.43,157950832,,216,2903185.0,3991,50013864,Jewelry / fashion jewelry / Fashion Jewelry NEW,True,1,饰品/流行首饰/时尚饰品新,36,0
+176,34.92,80188627,Miss Diva,220,2777731.2,79545,50013864,Jewelry / fashion jewelry / Fashion Jewelry NEW,True,1,饰品/流行首饰/时尚饰品新,36,0
+177,119.14,604014449,KADER/卡蒂罗,244,2688126.0,22563,50013864,Jewelry / fashion jewelry / Fashion Jewelry NEW,True,1,饰品/流行首饰/时尚饰品新,36,0
+178,465.74,155201376,Daniel Wellington,5,2137300.0,4589,50013864,Jewelry / fashion jewelry / Fashion Jewelry NEW,True,1,饰品/流行首饰/时尚饰品新,36,0
+179,308.31,59957,周大福,112,2033953.3999999997,6597,50013864,Jewelry / fashion jewelry / Fashion Jewelry NEW,True,1,饰品/流行首饰/时尚饰品新,36,0
+180,81.41,29519,Septwolves/七匹狼,608,19777969.0,242952,50010404,Apparel accessories / Belts / Hat / Scarf,True,1,服饰配件/皮带/帽子/围巾,21,0
+181,229.04,29486,Goldlion/金利来,287,14358516.5,62690,50010404,Apparel accessories / Belts / Hat / Scarf,True,1,服饰配件/皮带/帽子/围巾,21,0
+182,54.84,29510,PLAYBOY/花花公子,301,10796380.5,196866,50010404,Apparel accessories / Belts / Hat / Scarf,True,1,服饰配件/皮带/帽子/围巾,21,0
+183,101.48,29527,Uniqlo/优衣库,35,8877907.0,87481,50010404,Apparel accessories / Belts / Hat / Scarf,True,1,服饰配件/皮带/帽子/围巾,21,0
+184,226.82,29509,Pierre Cardin/皮尔卡丹,203,7129631.0,31433,50010404,Apparel accessories / Belts / Hat / Scarf,True,1,服饰配件/皮带/帽子/围巾,21,0
+185,19.02,130672338,简牛,156,6381635.099999998,335547,50010404,Apparel accessories / Belts / Hat / Scarf,True,1,服饰配件/皮带/帽子/围巾,21,0
+186,144.25,112370192,josephamani/卓梵 阿玛尼,160,6007434.8,41645,50010404,Apparel accessories / Belts / Hat / Scarf,True,1,服饰配件/皮带/帽子/围巾,21,0
+187,53.63,4535252,Mexican/稻草人,390,5978820.6,111490,50010404,Apparel accessories / Belts / Hat / Scarf,True,1,服饰配件/皮带/帽子/围巾,21,0
+188,116.22,114387662,润帛,95,5756683.3,49533,50010404,Apparel accessories / Belts / Hat / Scarf,True,1,服饰配件/皮带/帽子/围巾,21,0
+189,82.66,46864,恒源祥,345,5736728.63,69399,50010404,Apparel accessories / Belts / Hat / Scarf,True,1,服饰配件/皮带/帽子/围巾,21,0
+190,231.21,20579,Adidas/阿迪达斯,4159,117234667.8,507047,50011699,Sportswear / casual wear,True,1,运动服/休闲服装,10,0
+191,135.71,20592,Lining/李宁,1634,84840810.60000001,625183,50011699,Sportswear / casual wear,True,1,运动服/休闲服装,10,0
+192,240.06,20578,Nike/耐克,2012,81378479.0,338986,50011699,Sportswear / casual wear,True,1,运动服/休闲服装,10,0
+193,136.9,3424764,ANTA/安踏,2151,67006669.5,489461,50011699,Sportswear / casual wear,True,1,运动服/休闲服装,10,0
+194,476.17,3224828,Fila/斐乐,679,60295596.0,126626,50011699,Sportswear / casual wear,True,1,运动服/休闲服装,10,0
+195,226.88,59713882,Under Armour/安德玛,381,50413978.0,222209,50011699,Sportswear / casual wear,True,1,运动服/休闲服装,10,0
+196,237.16,20581,Puma/彪马,698,36169576.0,152511,50011699,Sportswear / casual wear,True,1,运动服/休闲服装,10,0
+197,147.52,31840,361&deg;,963,22024252.5,149299,50011699,Sportswear / casual wear,True,1,运动服/休闲服装,10,0
+198,257.34,3224818,Kappa/背靠背,401,15751943.0,61210,50011699,Sportswear / casual wear,True,1,运动服/休闲服装,10,0
+199,79.16,44506,Decathlon/迪卡侬,220,15496010.5,195766,50011699,Sportswear / casual wear,True,1,运动服/休闲服装,10,0
+200,506.13,340132919,铜师傅,151,32883382.2,64970,50020808,Home accessories,True,1,家居饰品,33,0
+201,200.4,783514840,THEBEAST/野兽派,52,4291809.4,21416,50020808,Home accessories,True,1,家居饰品,33,0
+202,211.06,88772430,仟象映画,275,3731736.92,17681,50020808,Home accessories,True,1,家居饰品,33,0
+203,734.78,78830265,福雕家饰,119,3555591.0,4839,50020808,Home accessories,True,1,家居饰品,33,0
+204,135.25,107311623,waLLwa/墙蛙,329,3116587.7999999993,23043,50020808,Home accessories,True,1,家居饰品,33,0
+205,164.69,536318967,纪恒暄,62,2912125.1999999997,17683,50020808,Home accessories,True,1,家居饰品,33,0
+206,160.89,4533653,Harbor House,140,2416345.0,15019,50020808,Home accessories,True,1,家居饰品,33,0
+207,601.5,75641652,尚尚木莲,105,2322383.0,3861,50020808,Home accessories,True,1,家居饰品,33,0
+208,65.66,8504301,BHM 贝汉美,243,2287042.1,34830,50020808,Home accessories,True,1,家居饰品,33,0
+209,179.15,55051421,卓画,130,2013326.0,11238,50020808,Home accessories,True,1,家居饰品,33,0
