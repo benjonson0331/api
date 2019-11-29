@@ -4,6 +4,7 @@ import time
 import requests
 import hmac
 import hashlib
+import csv
 try:
     import simplejson as json
 except (ImportError, SyntaxError):
@@ -130,32 +131,99 @@ class run1688_api():
             time.sleep(0.1)
             respons = requests.post(url=self.urlhead_orderDetail, params=param_sign, data=id_4[2])
             f = json.loads(respons.text)
+            #print(f)
             status = (f['result']['toReturn'][0]['status'])
             i = 1
 
             lists = ['该订单没有物流跟踪信息。', '根据订单ID获取订单时出错。', '无法识别物流情况。']
             buyerView_api_data = self.run_buyerView(id)
             if  buyerView_api_data[3] in lists:
-                logisticsCompanyName = (f['result']['toReturn'][0]['logistics'][0]['logisticsCompanyName'])
-                logisticsBillNo = (f['result']['toReturn'][0]['logistics'][0]['logisticsBillNo'])
+                sellerCompanyName = (f['result']['toReturn'][0]['sellerCompanyName'])
+                alipayTradeId = (f['result']['toReturn'][0]['alipayTradeId'])
                 now_time = time.strftime('%Y-%m-%d', time.localtime(time.time()))
-                print (id,status, logisticsBillNo, logisticsCompanyName, buyerView_api_data[2], buyerView_api_data[3], now_time,'      *********************该订单没有签收*********************')
-                return id,status, logisticsBillNo, logisticsCompanyName, buyerView_api_data[2], buyerView_api_data[3], now_time
+                print (id,status, alipayTradeId, sellerCompanyName, buyerView_api_data[2], buyerView_api_data[3], now_time,'      *********************该订单没有签收*********************')
+                return id,status, alipayTradeId, sellerCompanyName, buyerView_api_data[2], buyerView_api_data[3], now_time
 
             else:
-                logisticsCompanyName = (f['result']['toReturn'][0]['logistics'][0]['logisticsCompanyName'])
-                logisticsBillNo = (f['result']['toReturn'][0]['logistics'][0]['logisticsBillNo'])
+                sellerCompanyName = (f['result']['toReturn'][0]['sellerCompanyName'])
+                alipayTradeId = (f['result']['toReturn'][0]['alipayTradeId'])
                 now_time = str(time.strftime('%Y-%m-%d', time.localtime(time.time())))
                 new_status = 'success'
-                print (id, new_status,logisticsBillNo, logisticsCompanyName, buyerView_api_data[2], buyerView_api_data[3], now_time)
-                return id, new_status,logisticsBillNo, logisticsCompanyName, buyerView_api_data[2], buyerView_api_data[3], now_time
+                print (id, new_status,alipayTradeId, sellerCompanyName, buyerView_api_data[2], buyerView_api_data[3], now_time)
+                return id, new_status,alipayTradeId, sellerCompanyName, buyerView_api_data[2], buyerView_api_data[3], now_time
 
-        except Exception as e:
-            pass
+        except requests.RequestException as e:
+            if e.response is not None:
+                response_data['response'] = e.response
+                response_data['errors'] = [e.response.json()['errorMessage']]
+            else:
+                response_data['errors'] = [(str(e))]
+#        except Exception as e:
+#            print ("error")
+#            pass
+
+    def run_api_get_json(self,id):
+        try:
+            id_4 = self.get_orderid(id)
+            sign = self.sign_orderDetail(self.urlPath_orderDetail, id_4[0], self.secret, id)
+            param_sign = {
+                "_aop_signature": sign
+            }
+            time.sleep(0.1)
+            respons = requests.post(url=self.urlhead_orderDetail, params=param_sign, data=id_4[2])
+            f = json.loads(respons.text)
+            status = (f['result']['toReturn'][0]['status'])
+            i = 1
+
+            # json to csv
+
+            # open a file for writing
+
+            csvfile = csv.writer(open("/home/user/Documents/proj/1688API/a.csv", "w+"))
+
+            data = f['result']['toReturn'][0]['orderEntries']
+            csvfile.writerow(data[0].keys())  # header row
+            for row in data:
+                csvfile.writerow(row.values()) #values row
 
 
-# s = run1688_api()
-# s.run_api('179059889627412872')
+            # productName = f['result']['toReturn'][0]['orderEntries'][0]['productName'] 
+            # price = f['result']['toReturn'][0]['orderEntries'][0]['price']
+            # productPic = f['result']['toReturn'][0]['orderEntries'][0]['productPic']
+            # quantity = f['result']['toReturn'][0]['orderEntries'][0]['quantity']
+
+            # sellerCompanyName = f['result']['toReturn'][0]['sellerCompanyName']
+            # alipayTradeId = f['result']['toReturn'][0]['alipayTradeId']
+            # buyerFeedback = f['result']['toReturn'][0]['buyerFeedback']
+            # sellerAlipayId = f['result']['toReturn'][0]['sellerAlipayId']
+            # sellerPhone = f['result']['toReturn'][0]['sellerPhone']
+            # sellerUserId = f['result']['toReturn'][0]['sellerUserId']
+            # sellerMobile = f['result']['toReturn'][0]['sellerMobile']
+            # buyerPhone = f['result']['toReturn'][0]['buyerPhone']
+
+            # csvfile.writerow(["productName", productName])
+            # csvfile.writerow(["price", price])
+            # csvfile.writerow(["productPic", productPic])
+            # csvfile.writerow(["quantity", quantity])
+            # csvfile.writerow(["sellerCompanyName", sellerCompanyName])
+            # csvfile.writerow(["sellerPhone", sellerPhone])
+            
+            # Write CSV Header, If you dont need that, remove this line
+            #file.writerow(["productName", "price", "productPic", "quantity", "sellerCompanyName", "sellerPhone", "sellerMobile", "buyerPhone"])
+
+
+        except requests.RequestException as e:
+            if e.response is not None:
+                response_data['response'] = e.response
+                response_data['errors'] = [e.response.json()['errorMessage']]
+            else:
+                response_data['errors'] = [(str(e))]
+
+
+if __name__ == '__main__':
+ s = run1688_api()
+ #s.run_api('179059889627412872')
+ s.run_api_get_json('179059889627412872')
 
 
 
